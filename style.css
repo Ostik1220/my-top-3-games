@@ -1,0 +1,16 @@
+.maine-title {
+  color:darkgreen;
+}
+
+.game-title{
+   font-style: italic;
+   font-size: 50px;
+}
+
+.game-item{
+   width: 500px;
+   size: 500px;
+   background-color: aqua;
+   margin-bottom: 30px;
+}
+
